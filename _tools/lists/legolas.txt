@@ -1,0 +1,32 @@
+﻿################################################################ PORTUGAL, OLÉÉÉ!!! #######
+###########################################################################################
+<item>
+<title>[COLOR FFff8000]» LEGOLAS[/COLOR]</title>
+<link>http://nopr0n</link>
+<thumbnail>https://raw.githubusercontent.com/irmu/bola/master/_tools/art/foot.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/irmu/bola/master/_tools/art/ball.jpg</fanart>
+</item>
+ 
+<item>
+<title>» CANAIS DESPORTO - PT</title>
+<link>http://nopr0n</link>
+<thumbnail>https://raw.githubusercontent.com/irmu/bola/master/_tools/art/foot.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/irmu/bola/master/_tools/art/stadium.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/irmu/bola/master/_tools/lists/sports_PT.txt</externallink>
+</item>
+ 
+<item>
+<title>» AGENDAS</title>
+<link>http://nopr0n</link>
+<thumbnail>https://raw.githubusercontent.com/irmu/bola/master/_tools/art/agenda02.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/irmu/bola/master/_tools/art/stadium.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/irmu/bola/master/_tools/lists/agendas_bola.txt</externallink>
+</item>
+
+<item>
+<title>» MANUTENÇÃO</title>
+<link>http://nopr0n</link>
+<thumbnail>https://raw.githubusercontent.com/irmu/bola/master/_tools/art/agenda02.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/irmu/bola/master/_tools/art/stadium.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/irmu/bola/master/_tools/lists/agendas_bola.txt</externallink>
+</item>
