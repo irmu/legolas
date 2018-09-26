@@ -1,1 +1,1 @@
-[{"url": "https://raw.githubusercontent.com/irmu/legolas/master/_tools/lists/legolas.txt", "fanart": ".\\fanart.jpg", "title": "Legolas"}]
+[{"url": "https://raw.githubusercontent.com/irmu/bola/master/_tools/lists/bola_home.txt", "fanart": ".\\fanart.jpg", "title": "legolas"}]

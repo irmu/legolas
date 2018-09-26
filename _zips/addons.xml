@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="plugin.video.legolas" name="Legolas" version="2018.09.12" provider-name="Lórien">
+<addon id="plugin.video.legolas" name="Legolas" version="2018.09.13" provider-name="Lórien">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.beautifulsoup" version="3.2.1"/>
