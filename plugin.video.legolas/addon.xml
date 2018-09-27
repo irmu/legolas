@@ -1,8 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.legolas" name="Legolas" version="2018.09.14" provider-name="Lórien">
+<addon id="plugin.video.legolas" name="Legolas" version="2018.09.27" provider-name="Lórien">
   <requires>
+	<import addon="repository.legolas" version="1.0.0"/>
+	<import addon="repository.arda" version="1.0.0"/>
     <import addon="xbmc.python" version="2.1.0"/>
-    <import addon="script.module.beautifulsoup" version="3.2.1"/>
+	<import addon="script.module.beautifulsoup" version="3.2.1"/>
 	<import addon="script.module.simple.downloader" version="0.9.4"/>
     <import addon="script.module.beautifulsoup4" />
     <import addon="script.module.requests" />
@@ -18,7 +20,6 @@
 	<import addon="plugin.video.SportsDevil" optional="true" />
 	<import addon="plugin.video.youtube" optional="true" />
 	<import addon="program.plexus" optional="true" />
-	<import addon="repository.arda" />
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
     <provides>video</provides>
