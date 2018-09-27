@@ -2,7 +2,7 @@
 ###########################################################################################
 <item>
 <title>[COLOR FFff8000]» LEGOLAS[/COLOR]</title>
-<link>http://nopr0n</link>
+<link>https://raw.githubusercontent.com/irmu/legolas/master/_tools/lists/about.txt</link>
 <thumbnail>https://raw.githubusercontent.com/irmu/legolas/master/_tools/art/icon.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/irmu/legolas/master/_tools/art/fanart.jpg</fanart>
 </item>
